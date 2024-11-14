@@ -12249,3 +12249,4 @@ Already up to date.
 [ERROR 2024-11-14_21:55:15] ERROR: Cannot connect to MQTT broker in tml_read_MQTT_step_3_kafka_producetotopic_dag-finalprojectmainmain-efe0.py - invalid literal for int() with base 10: ''
 [INFO 2024-11-14_21:55:23] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-finalprojectmainmain-efe0.py
 [INFO 2024-11-14_21:55:28] Visualization DAG in tml_system_step_7_kafka_visualization_dag-finalprojectmainmain-efe0.py
+[INFO 2024-11-14_21:55:47] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-finalprojectmainmain-efe0.py
