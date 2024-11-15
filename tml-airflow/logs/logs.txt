@@ -12327,3 +12327,4 @@ branch.main.merge=refs/heads/main
 [INFO 2024-11-15_01:21:21] TML Solution Studio: Github Remote Status: origin	https://github.com/To-nero0/TMLRaspberry (fetch)
 origin	https://<personal access token hidden>@github.com/To-nero0/TMLRaspberry.git (push)
 [INFO 2024-11-15_01:29:54] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-finalprojectmainmain-efe0.py
+[INFO 2024-11-15_01:29:59] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-finalprojectmainmain-efe0.py
