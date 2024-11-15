@@ -12332,3 +12332,4 @@ origin	https://<personal access token hidden>@github.com/To-nero0/TMLRaspberry.g
 [INFO 2024-11-15_01:30:10] Deleting topic prediction-data in tml_system_step_2_kafka_createtopic_dag-finalprojectmainmain-efe0.py
 [INFO 2024-11-15_01:30:16] Deleting topic cisco-network-privategpt in tml_system_step_2_kafka_createtopic_dag-finalprojectmainmain-efe0.py
 [INFO 2024-11-15_01:30:38] MQTT producing DAG in tml_read_MQTT_step_3_kafka_producetotopic_dag-finalprojectmainmain-efe0.py
+[INFO 2024-11-15_01:30:48] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-finalprojectmainmain-efe0.py
