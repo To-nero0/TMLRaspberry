@@ -12336,3 +12336,4 @@ origin	https://<personal access token hidden>@github.com/To-nero0/TMLRaspberry.g
 [INFO 2024-11-15_01:30:54] Visualization DAG in tml_system_step_7_kafka_visualization_dag-finalprojectmainmain-efe0.py
 [INFO 2024-11-15_01:31:15] PrivateGPT Step 9 DAG in tml_system_step_9_privategpt_qdrant_dag-finalprojectmainmain-efe0.py
 [INFO 2024-11-15_01:31:46] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-finalprojectmainmain-efe0.py
+[INFO 2024-11-15_01:46:24] {'name': ['Project with slug "finalprojectmainmain-efe0" already exists.']}
