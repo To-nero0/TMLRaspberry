@@ -12338,3 +12338,4 @@ origin	https://<personal access token hidden>@github.com/To-nero0/TMLRaspberry.g
 [INFO 2024-11-15_01:31:46] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-finalprojectmainmain-efe0.py
 [INFO 2024-11-15_01:46:24] {'name': ['Project with slug "finalprojectmainmain-efe0" already exists.']}
 [INFO 2024-11-15_02:17:01] Deleting topic cisco-network-mainstream in tml_system_step_2_kafka_createtopic_dag-finalprojectmainmain-efe0.py
+[INFO 2024-11-15_02:17:09] Deleting topic cisco-network-preprocess in tml_system_step_2_kafka_createtopic_dag-finalprojectmainmain-efe0.py
